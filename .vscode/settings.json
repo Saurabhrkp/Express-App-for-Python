@@ -1,0 +1,22 @@
+{
+  "python.pythonPath": "C:\\Users\\saura\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#21d1f7",
+    "activityBar.activeBorder": "#d708b2",
+    "activityBar.background": "#21d1f7",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#d708b2",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "statusBar.background": "#08b7dd",
+    "statusBar.border": "#08b7dd",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#068eac",
+    "titleBar.activeBackground": "#08b7dd",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.border": "#08b7dd",
+    "titleBar.inactiveBackground": "#08b7dd99",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#08b7dd"
+}
