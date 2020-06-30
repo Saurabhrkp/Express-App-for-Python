@@ -1,0 +1,38 @@
+{
+  "name": "Express App for Python ML Model",
+  "short_name": "Run Python",
+  "description": "Express app to create interactive place for Python Machine Learning Model.",
+  "icons": [
+    {
+      "src": "/icons/python-480.png",
+      "sizes": "480x480",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/python-240.png",
+      "sizes": "240x240",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/python-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/python-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/python-48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "http://localhost:3000/",
+  "url": "http://localhost:3000",
+  "scope": "/"
+}
